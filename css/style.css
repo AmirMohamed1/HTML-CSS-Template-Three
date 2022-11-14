@@ -977,6 +977,7 @@ ul {
     top: 0;
     left: 0;
     height: 100%;
+    width: 0;
     background-color: var(--main-color);
     transition: 0.5s;
 }
